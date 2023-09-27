@@ -7,8 +7,8 @@ require 'open3'
 
 #Variables
 
-RHOST = "you'r_ip"
-RPORT = "you'r_port"
+RHOST = "your_ip"
+RPORT = "your_port"
 
 #Connection attempts and Handling Ruby Exceptions
 
